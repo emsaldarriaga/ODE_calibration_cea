@@ -1,2 +1,2 @@
-# ODE_calibration_cea
-Calibration for an SEIR model using direct search and applications to economic analysis.
+# Calibration of an SEIR Model and applications to CEA
+This project contains one script divided in two sections, Calibration of an SEIR model and Application to Economic Analysis. The former shows all steps needed to conduct a calibration using a direct search algorithm from data simulation to obtaining posterior distributions for the parameters of interest. The latter presents functions to implement a cost-effectiveness analysis using the results from the ODE and simulated interventions. All data is simulated and generated within the same script.
